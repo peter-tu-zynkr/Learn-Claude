@@ -9,7 +9,7 @@
 - [x] Download
 - [x] Set up folder
 - [x] Basic commands
-- [ ] How to init project, create CLAUDE.md file
+- [x] How to init project, create CLAUDE.md file
 - [x] Try plan mode
 - [x] Connect with GitHub
   - [x] Install GitHub CLI via Homebrew
@@ -34,21 +34,22 @@
 - [x] Build a sub agent
 - [x] Manage the sub agent repo
 - [ ] Connect MCP
+  - [x] Watch how to connect MCP video
+  - [x] Jira / Confluence — manage tickets, search issues, create pages
   - [x] Slack — read/send messages, search workspace
-  - [x] WhatsApp — send messages, search contacts
-  - [x] Context7 — inject up-to-date library docs into context
-  - [x] Agent Browser Skills — browser automation
   - [x] Notion — read/write pages and databases
-  - [ ] Jira / Confluence — manage tickets, search issues, create pages
+  - [x] WhatsApp — send messages, search contacts
   - [ ] n8n — trigger automation workflows
-  - [ ] Figma — access design files and components
+  - [x] Figma — access design files and components
   - [ ] Lucidchart — access and manage flowcharts
+  - [x] Agent Browser Skills — browser automation
+  - [x] Context7 — inject up-to-date library docs into context
   - [x] Gmail — read, send, manage emails
-  - [ ] Google Calendar — manage events and schedules
+  - [x] Google Calendar — manage events and schedules
   - [ ] GDrive — search and manage Drive files
   - [ ] GDocs — read and edit documents
   - [ ] GSheets — query and update spreadsheet data
-  - [ ] X — post, search, read timeline, send DMs
+  - [x] X — post, search, read timeline, send DMs
   - [ ] PostgreSQL — query and manage relational database
   - [ ] MySQL — query and manage database
   - [ ] MongoDB — query and manage document database
@@ -58,7 +59,8 @@
   - [ ] Business insight — discover as-is
   - [ ] Business ideation — brainstorm to-be
   - [ ] Consolidate business requirements
-  - [ ] PRD (ask user for context, reformat into PRD template)
+  - [x] PRD (ask user for context, reformat into PRD template)
+  - [ ] Maybe just refer to the index?
 
 ---
 
@@ -141,6 +143,12 @@
 
 - [ ] Learn the basics
 - [ ] Refactor
+
+---
+
+## (11) Use Hook to Chain Up Big Tasks
+
+- [ ] (TBD)
 
 ---
 
